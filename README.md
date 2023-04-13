@@ -4,9 +4,9 @@
 
 I specialize in React Native, ReactJS and Flutter. I have been in development since high school. I got into mobile development in 2019 by learning Flutter. I have successfully completed 30+ projects with some of them even making it to the Playstore and the Appstore.
 <br />
-I am a BS Software Engineering Gradaute from <b>COMSATS</b>. I finished my college degree with 2 Gold Medals. Currently, I am working as Frontend-Develper @
-<a href="https://www.werplay.com/">We.R.Play.</a>
-I have been here since April 2022.
+I am a BS Software Engineering Gradaute from <b>COMSATS</b>. I finished my college degree with 2 Gold Medals. Currently, I am working as Frontend-Developer @
+<a href="https://www.werplay.com/">We.R.Play</a>
+since April 2022.
 
 # Skills
 ## Frontend Technologies
