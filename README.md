@@ -1,5 +1,5 @@
 <h1 align="center">
-    💻 Hello, I am Zeeshan 🧑🏼‍💻
+    👋🏻 Hello, I am Zeeshan 🧑🏼‍💻
 </h1>
 
 # Introduction
