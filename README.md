@@ -18,8 +18,12 @@ since April 2022.
 
 # Skills
 
+<div align="center">
+
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=zees98&theme=tokyonight" alt="zeeshan"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+
+</div>
 
 ## Frontend Technologies
 
