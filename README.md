@@ -18,7 +18,7 @@ since April 2022.
 
 # Skills
 
-| <img src="https://myreadme.vercel.app/api/embed/zees98?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=zees98&theme=tokyonight" alt="zeeshan"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flexbox&layout=compact&hide=html&theme=buefy" alt="flexbox" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Frontend Technologies
