@@ -50,4 +50,5 @@ since April 2022.
 
  <img style="margin-top: 10px" src="https://profile-counter.glitch.me/{zees98}/count.svg" alt="zeeshan's :: Visitor's Count" />
  ## Github Trophies
- <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+ 
+ <img src="https://github-profile-trophy.vercel.app/?username=zees98&theme=juicyfresh&no-bg=true" />
