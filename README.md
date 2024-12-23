@@ -49,6 +49,6 @@ since April 2022.
   - NodeMCU
 
  <img style="margin-top: 10px" src="https://profile-counter.glitch.me/{zees98}/count.svg" alt="zeeshan's :: Visitor's Count" />
- ## Github Trophies
+<h1>Github Trophies</h1>
  
  <img src="https://github-profile-trophy.vercel.app/?username=zees98&theme=juicyfresh&no-bg=true" />
